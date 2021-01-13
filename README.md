@@ -16,7 +16,7 @@
 
 ## rooms テーブル
 
-| Column |Type   | Options     |
+| Column | Type   | Options     |
 | ------ | ------ | ----------- |
 | name   | string | null: false |
 
@@ -24,7 +24,7 @@
 
 - has_many :room_users
 - has_many :users, through: room_users
-- has_many: messages
+- has_many :messages
 
 ## room_users テーブル
 
