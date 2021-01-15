@@ -30,3 +30,4 @@
 yarn-debug.log*
 .yarn-integrity
 config/application.rb
+app/views/messages/index.html.erb
