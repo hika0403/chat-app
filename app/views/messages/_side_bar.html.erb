@@ -1,5 +1,6 @@
 <div class="side-header"> 
   <div class="user-name">
+    <%= link_to current_user.name, edit_user_path(current_user)%>
     <a href="#">Hikaru</a>
   </div>
   <div class="new-chatbtn">
