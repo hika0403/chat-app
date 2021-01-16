@@ -87,7 +87,7 @@
   margin: 10px 0 0 0;
 }
 
-.upper-massage{
+.upper-message{
   display: flex;
 }
 
@@ -112,14 +112,14 @@
   margin-bottom: 40px;
 }
 
-.main-form{
+.form{
   background-color: #dddddd;
   height: 90px;
   padding: 20px 40px;
   display: flex;
 }
 
-.form-content{
+.form-input{
   background-color: white;
   width: 100%;
   display: flex;
